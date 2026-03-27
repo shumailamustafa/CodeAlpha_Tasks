@@ -1,0 +1,10 @@
+﻿Analyzing Task-1...
+
+  error - lib\app\theme\app_theme.dart:77:18 - The argument type 'CardTheme' can't be assigned to the parameter type 'CardThemeData?'.  - argument_type_not_assignable
+  error - test\widget_test.dart:16:35 - The name 'MyApp' isn't a class. Try correcting the name to match an existing class. - creation_with_non_type
+   info - lib\app\routes\app_pages.dart:11:16 - The constant name 'INITIAL' isn't a lowerCamelCase identifier. Try changing the name to follow the lowerCamelCase style. - constant_identifier_names
+   info - lib\app\routes\app_routes.dart:4:23 - The constant name 'HOME' isn't a lowerCamelCase identifier. Try changing the name to follow the lowerCamelCase style. - constant_identifier_names
+   info - lib\app\routes\app_routes.dart:5:23 - The constant name 'MANAGE' isn't a lowerCamelCase identifier. Try changing the name to follow the lowerCamelCase style. - constant_identifier_names
+   info - lib\app\theme\app_theme.dart:67:53 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+
+6 issues found.
